@@ -1,6 +1,7 @@
 - 👋 Hi, my name is Chris McNorgan
 - I'm a faculty member in the Department of Psychology at the University at Buffalo
-- 🌱 I’m currently learning Python as I go
+- I run the Computational Cognitive Neuroscience Lab, where I marry machine learning and functional neuroimaging to analyze brain networks underlying cognitive processing
+- I’m currently learning Python as I go
 - 📫 I can be reached at cpmcnorg@buffalo.edu
 
 <!---
