@@ -1,6 +1,6 @@
 👋 Hi, my name is Chris McNorgan
 
-I'm a machine learning researcher and neuroscientist with 20 years of experience developing Deep Learning models to explain and reverse-engineer how humans understand and learn about the world, and how this behavior interacts with language.
+I'm a machine learning researcher and neuroscientist. I started developing Deep Learning models of the human memory and language systems as a Master's graduate student in 2002 to explain and reverse-engineer how humans understand and learn about the world, and how this behavior interacts with language. In 2009 I received my PhD and went to Northwestern University to pursue postdoctoral studies in Neuroscience and learn Neuroimaging techniques.
 
 Until Spring 2023, I directed the Computational Cognitive Neuroscience Laboratory as a member of the research faculty at the University at Buffalo. In this role, I graduated several PhD trainees, was a mentor in the school's Masters in Data Science program, and the primary instructor of Advanced Graduate Statistics in the Department of Psychology.
 
