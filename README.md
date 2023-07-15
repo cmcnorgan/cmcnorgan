@@ -1,3 +1,4 @@
+![Neuron]https://github.com/cmcnorgan/cmcnorgan/blob/main/Neuron.png
 👋 Hi, my name is Chris McNorgan
 
 I'm a machine learning researcher and neuroscientist. I started developing (what would be later known as) Deep Learning models of the human memory and language systems as a Master's graduate student in 2002 to explain and reverse-engineer how humans understand and learn about the world, and how this behavior interacts with language. In 2009 I received my PhD and went to Northwestern University to pursue postdoctoral studies in Neuroscience and learn Neuroimaging techniques.
